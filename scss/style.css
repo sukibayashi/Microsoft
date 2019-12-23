@@ -53,6 +53,10 @@
   height: 48px !important;
 }
 
+.bg-light .collapse {
+  background-color: white !important;
+}
+
 .banner_container {
   margin: 0 auto;
   padding-left: 6%;
